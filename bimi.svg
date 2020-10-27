@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128" xml:space="preserve">
+<title>Power Kernel</title>
+<g id="Layer_2_1_">
+	<g id="Layer_1-2">
+		<path fill-rule="evenodd" fill="#00AEEF" d="M60.7,94.6H43.1l11.3-29.8h-8.2L34.9,94.6h-3.6l0,0h-0.7c-8.4,0-15.2-6.9-15.2-15.3
+			c0-7.7,5.8-14.2,13.5-15.1c-2.5-14.3,7-27.9,21.3-30.4c11.5-2,23,3.8,28.1,14.2L60.7,94.6z M61,80.9l6.2-16.3H59l-6.2,16.3H61z"/>
+		<path fill-rule="evenodd" fill="#F99D1C" d="M88.7,47.7c13-0.3,23.6,10,23.9,23c0.3,13-10,23.6-23,23.9c-0.3,0-0.6,0-0.9,0H68.4
+			L86,47.9C86.9,47.8,87.8,47.7,88.7,47.7z"/>
+	</g>
+</g>
+</svg>

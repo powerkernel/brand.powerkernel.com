@@ -1,0 +1,20 @@
+{
+  "name": "brand.powerkernel.com",
+  "version": "1.0.0",
+  "description": "Power Kernel Brand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerkernel/brand.powerkernel.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/powerkernel/brand.powerkernel.com/issues"
+  },
+  "homepage": "https://github.com/powerkernel/brand.powerkernel.com#readme"
+}
